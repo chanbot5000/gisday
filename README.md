@@ -12,7 +12,7 @@ i) Create directory /gisday/out to store files created by Python script (git ign
 
 3) Draw polygon in Google Earth and save it as /src/poly.kml
 
-4) Click hyperlink to point in the info window
+4) Click hyperlink in point's info window
 
 5) Choose title for map and output directory
 
